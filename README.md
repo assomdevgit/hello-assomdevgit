@@ -11,7 +11,9 @@ https://pypi.org/project/hello-pysatellite
 INSTALL
 ```bash
 $ pip install hello-pysatellite
+```
 DEV
+```bash
 $ git clone ...
 $ cd hello-pysatellite
 $ pdm venv create
